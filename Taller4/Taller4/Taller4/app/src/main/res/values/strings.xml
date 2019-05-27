@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Taller4</string>
+    <string name="boton">Cargar Datos</string>
+    <string name="btndos">Sync</string>
+    <string name="cargadatos">Crear Persona</string>
+</resources>
